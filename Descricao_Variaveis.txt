@@ -1,0 +1,21 @@
+Numero REDS                             Código único do Registro de Eventos de Defesa Social
+Qte Ocorrências                         Quantidade de ocorrências registradas
+Descrição Grupo Nat Principal           Classificação usada para agrupar delitos que possuem a mesma essência jurídica ou o mesmo alvo.
+Descrição subclasse Nat Principal       Especificação exata do crime que foi cometido
+Tentado/Consumado Nat Principal         Se o Crime de Natureza Principal foi consumado ou não
+Desc Longa Grupo Complemento Nat        Se o Crime foi cometido contra Bens/Valores ou contra Pessoa
+Logradouro Ocorrencia-Tipo              Tipo de local onde ocorreu o crime
+Logradouro da Ocorrencia                É o nome oficial da rua, avenida ou praça que já existe cadastrado no banco de dados geográfico do sistema policial.
+Logradouro da Ocorrencia não Cdastrado  É o campo preenchido manualmente quando o crime aconteceu em um local que não possui registro oficial no sistema de mapas da polícia
+Bairro                                  É o nome oficial do Bairro que já existe cadastrado no banco de dados geográfico do sistema policial.
+Bairro Não Cadastrado                   É o campo preenchido manualmente quando o crime aconteceu em um Bairro que não possui registro oficial no sistema de mapas da polícia
+Municipio                               Nome do Municipio
+Municipio Código                        Código do Municipio
+UF-Sigla                                Sigla da Unidade Federatriva
+Horário Fato                            Horário que ocorreu o crime
+Dia Da Semana Fato                      Dia de samana em que ocorreu o crime
+Data do Fato                            Data do Fato
+Mês numérico do Fato                    Numero correspondende ao mês do crime
+Ano                                     Ano do Crime
+Latitude                                Latitude onde o crime ocorreu
+Longitude                               Longitude onde o crime ocorreu
