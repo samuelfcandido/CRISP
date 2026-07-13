@@ -1,0 +1,16 @@
+Nome da Variável	Rótulo da Variável
+M1	                  Nome
+M2	                  Tempo de Serviço
+M3	                  Cia
+M4	                  Tempo na Cia
+M5	                  Batalhão
+M6	                  Idade
+M7	                  Cidade
+M8	                  Patente
+M9	                  Data do Questionário
+M10	                  Número do Questionário
+Q1	                  Sexo
+Q2	                  Religião
+Q2_Qual	                  Religião (Outro)
+Q3	                  Escolaridade
+Q4	                  Estado Civíl
