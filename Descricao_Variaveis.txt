@@ -8,7 +8,7 @@ Logradouro Ocorrencia-Tipo              Tipo de local onde ocorreu o crime
 Logradouro da Ocorrencia                É o nome oficial da rua, avenida ou praça que já existe cadastrado no banco de dados geográfico do sistema policial.
 Logradouro da Ocorrencia não Cdastrado  É o campo preenchido manualmente quando o crime aconteceu em um local que não possui registro oficial no sistema de mapas da polícia
 Bairro                                  É o nome oficial do Bairro que já existe cadastrado no banco de dados geográfico do sistema policial.
-Bairro Não Cadastrado                   É o campo preenchido manualmente quando o crime aconteceu em um Bairro que não possui registro oficial no sistema de mapas da polícia
+Bairro Não Cadastrado                   É o campo preenchido manualmente quando o crime aconteceu em um Bairro que não possui registro oficial no sistema de mapas da polícia 
 Municipio                               Nome do Municipio
 Municipio Código                        Código do Municipio
 UF-Sigla                                Sigla da Unidade Federatriva
